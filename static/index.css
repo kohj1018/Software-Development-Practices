@@ -1,0 +1,24 @@
+.gnb {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid black;
+    background-color: #e4e8eb;
+    border-radius: 10px;
+  }
+  
+  .gnb .gnb-list {
+    margin: 0;
+    padding: 10px 5px;
+    overflow: hidden;
+  }
+  
+  .gnb .gnb-list .gnb-list-item {
+    float: left;
+    margin-left: 30px;
+    list-style: none;
+  }
+  
+  .gnb .gnb-list .gnb-list-item a {
+    text-decoration: none;
+    color: black;
+  }
